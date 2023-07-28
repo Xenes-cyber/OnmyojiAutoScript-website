@@ -10,6 +10,7 @@
 | 雷电模拟器（5）                                      |          |          |              |          |
 | 雷电模拟器（4）                                      |          |          |              |          |
 | [Bluestacks （5）](https://www.bluestacks.cn/)       |          |          | ✅ (HCS)      |          |
+| [Bluestacks （5）国际版](https://www.bluestacks.com) |          |     X     |       | 分辨率无法正确识别|
 | [夜神模拟器（Nox）（7）](https://www.yeshen.com/)    |          |          |              |          |
 | [逍遥模拟器（MEmu）](https://www.xyaz.cn/)           |          |          |              |          |
 | Windows Subsystem for Android                        |          |          |              |          |
